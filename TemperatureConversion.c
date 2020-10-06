@@ -1,11 +1,3 @@
-/*
- * Task1_TemperatureConversion.c
- *
- *  Created on: 2020/05/25
- *      Author: 新宿MBD研修9
- */
-
-
 #include <stdio.h>
 
 int main(void){
