@@ -1,11 +1,3 @@
-/*
- * task2_NumberOfRoutes.c
- *
- *  Created on: 2020/05/25
- *      Author: 新宿MBD研修9
- */
-
-
 #include <stdio.h>
 
 int Factorial(int);
